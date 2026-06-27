@@ -1,0 +1,22 @@
+{
+  "dataset": "wds/imagenet1k",
+  "model": "ViT-B-32",
+  "pretrained": "/mnt/ssd2/mujtaba/projects/E3T/git_temp/Energy-Guided-Test-Time-Defense/CLIP/saved_models/vitb32_tecoa_eps_4.pt",
+  "task": "zeroshot_classification",
+  "metrics": {
+    "clean_accuracy": 0.565,
+    "adv_accuracy": NaN,
+    "mean_per_class_recall": 0.5663568773234201
+  },
+  "language": "en",
+  "attack": "none",
+  "iterations_adv": 100,
+  "eps": 4.0,
+  "norm": "Linf",
+  "transform": false,
+  "transform_alpha": null,
+  "transform_eps": null,
+  "transform_max_iters": null,
+  "transform_classifier": null,
+  "imagenet21k_labels": null
+}

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.ckpt
+*.log
+.github/
+.env
+.DS_Store
+saved_models/
+scripts/local_run.sh
