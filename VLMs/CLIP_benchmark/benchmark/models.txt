@@ -1,0 +1,1 @@
+ViT-B-32,/mnt/ssd2/mujtaba/projects/E3T/RobustVLM/CLIP_benchmark/models/vitb32_tecoa_eps_4.pt
